@@ -20,7 +20,7 @@ redirect_from:
 
 Mingxuan Zhu is a third-year Ph.D. student supervised by Prof. <a href="https://sites.google.com/view/danhao/" target="_blank">Dan Hao</a> in Software Engineering Institute, School of Computer Science, Peking University. He received his B.S degree from Department of Intelligence and Computing, Tianjin University.
 
-My research interest includes 
+My research goal is to achieve software performance optimization, and software correctness. Specifically, to use automatic techniques to test the target software, or to improve the performance of the target software, including compiler auto-tuning, compiler testing, test case generation, etc.
 
 # 🔥 News
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by FSE 2025.
@@ -31,9 +31,26 @@ My research interest includes
 
 # 📝 Publications 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[FES'25] **PDCAT: Preference-Driven Compiler Auto-Tuning**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Mingxuan Zhu**, Zeyu Sun, Dan Hao
+
+[TOSEM] **Is It Hard to Generate Holistic Commit Message?**
+
+Guoqing Wang, Zeyu Sun, Jinhao Dong, Yakun Zhang, **Mingxuan Zhu**, Qingyuan Liang, Dan Hao
+
+
+[ASE’24] **Compiler Bug Isolation via Enhanced Test Program Mutation**
+
+Yujie Liu, **Mingxuan Zhu**, Jinhao Dong, Junzhe Yu, Dan Hao
+
+[TOSEM] **Compiler Autotuning through Multiple-phase Learning**
+
+**Mingxuan Zhu**, Junjie Chen, Dan Hao
+
+[ASE’23] **Compiler Auto-Tuning via Critical Flag Selection**
+
+**Mingxuan Zhu**, Dan Hao
 
 # 🎖 Honors and Awards
 - *2024.09* Peking University First Class Scholarship. 
@@ -45,7 +62,6 @@ My research interest includes
 - *2018.09 - 2022.06*, Tianjin University, Bachelor in Software Engineering.
 
 # 💬 Invited Talks
-
 
 # 💻 Service
 
